@@ -1,0 +1,14 @@
+layout_spectrum: 0.002779143
+typography_spectrum: 0.8353483
+color:
+  saturation: 0.3830507
+  lightness: 0.6019961
+  brandStrength: 0.2539255
+  rhythmicContrast: 0.4114529
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Wall street
