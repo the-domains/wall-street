@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8353483
 color:
-  saturation: 0.3830507
-  lightness: 0.6019961
+  saturation: 0.9436089
   brandStrength: 1
+  lightness: 0.113319
   brandColors:
     - '#060605'
     - '#5D5242'
@@ -21,6 +22,5 @@ color:
     - '#FFFFFF'
     - '#91532F'
   rhythmicContrast: 0.4114529
-typography_spectrum: 0.8353483
 layout_spectrum: 0.002779143
 name: Wall street
