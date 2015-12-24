@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wall street]]></title>
+        <description><![CDATA[Wall street]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 21:51:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How the Third Avenue Fund Melted Down]]></title>
+            <description><![CDATA[<article><h1>How the Third Avenue Fund Melted Down</h1><p>The end came quickly for David Barse. For 24 years, Mr. Barse helped lead Third Avenue Management LLC, a mutual-fund company founded by legendary investor Marty Whitman known for profiting from beaten-down investments. At its peak in 2006, Third Avenue managed more than $26 billion. But in the early afternoon of Dec.</p><img src="http://si.wsj.net/public/resources/images/OG-AG375_201512_G_20151223134406.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/how-the-third-avenue-fund-melted-down-1450903135</link>
+            <guid isPermaLink="false">b275942d-32f3-49f0-b906-9808656946c3</guid>
+            <pubDate>Thu, 24 Dec 2015 21:51:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
