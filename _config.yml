@@ -1,14 +1,26 @@
-layout_spectrum: 0.002779143
-typography_spectrum: 0.8353483
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3830507
   lightness: 0.6019961
-  brandStrength: 0.2539255
-  rhythmicContrast: 0.4114529
+  brandStrength: 1
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#060605'
+    - '#5D5242'
+    - '#A29887'
+    - '#FFFFFF'
+    - '#91532F'
+  rhythmicContrast: 0.4114529
+typography_spectrum: 0.8353483
+layout_spectrum: 0.002779143
 name: Wall street
