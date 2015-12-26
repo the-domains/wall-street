@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.8353483
 color:
-  saturation: 0.9436089
-  lightness: 0.113319
+  saturation: 0.8319011
   brandStrength: 1
+  lightness: 0.7524167
   brandColors:
     - '#0D0D0B'
     - '#FFFFFF'
     - '#776F5C'
     - '#B3BCD0'
     - '#FAC890'
-  rhythmicContrast: 0.4114529
-typography_spectrum: 0.8353483
+  rhythmicContrast: 0.6557465
 layout_spectrum: 0.002779143
 name: Wall street
