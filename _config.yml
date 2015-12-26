@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8353483
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.9436089
-  brandStrength: 1
   lightness: 0.113319
+  brandStrength: 1
   brandColors:
-    - '#060605'
-    - '#5D5242'
-    - '#A29887'
+    - '#0D0D0B'
     - '#FFFFFF'
-    - '#91532F'
+    - '#776F5C'
+    - '#B3BCD0'
+    - '#FAC890'
   rhythmicContrast: 0.4114529
+typography_spectrum: 0.8353483
 layout_spectrum: 0.002779143
 name: Wall street
